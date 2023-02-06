@@ -1,2 +1,2 @@
 # TIL
-[어](/designpattern)
+[디자인패턴](/designpattern)
