@@ -23,3 +23,5 @@ struct Person {
 let me = Person(firstName: <#T##String#>, middleName: <#T##String#>, lastName: <#T##String#>, ethnicity: <#T##String#>, height: <#T##Int#>, weight: <#T##Int#>)
 ```
 손나칸지..
+
+이해한 시점에서 생각해보니 새로운 개념이라 처음에 못 알아들은 것 같다.. 역시 써봐야한다.
